@@ -92,3 +92,7 @@ bin
 obj
 appsettings.json
 local.settings.json
+settings.json
+
+.vscode
+.vs
